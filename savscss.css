@@ -1,0 +1,41 @@
+/*selector {
+	property: value;
+}
+*/
+p {
+	color: black;
+	font-family: "Times New Roman", Georgia;
+	font-style: italic;
+}
+h1 {
+	background-color: cyan;
+}
+body {
+	background-image: url(https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-16.jpg);
+	background-size: cover;
+}
+li {
+	list-style: circle;
+	display: run-in;
+}
+.btn {
+	color: white;
+	border: none;
+
+}
+.btn:hover {
+	text-transform: uppercase;
+	transform: scale(1.2);
+	color: black;
+	background-color: royalblue;
+}
+.h3 {
+	color: black;
+}
+.con1 {
+	color: black;
+	outline-color: black;
+}
+
+
+

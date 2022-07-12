@@ -1,0 +1,38 @@
+/*selector {
+	property: value;
+}*/
+
+body {
+	background-image: url(https://wallpaperaccess.com/full/655147.jpg);
+	background-size: cover ;
+	align-items: center;
+}
+p {
+	height: 75%;
+	width: 75%;
+	text-transform: none;
+/*	text-align: center;*/
+	font-family: Lucida Handwriting;
+	transform: scale(1.3);
+	color: white;
+
+}
+.btn {
+	color: purple;
+}
+.btn:hover {
+	animation-duration: 3s;
+	transform: scale(1.2);
+	color: rebeccapurple;
+	font-family: "time new roman",Georgia;
+
+}
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.justify-content-center {
+	display: flex;
+	justify-content: center;
+}
